@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://i.imgur.com/NDUQR7W.png" alt="Hi, I'm Anaëlle, junior web developer and student of computer science" width="100%" height="auto" />
 
 <!--
 **anaiel/anaiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
