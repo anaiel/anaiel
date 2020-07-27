@@ -7,3 +7,7 @@
 - 📫 How to reach me: an.leclabart@gmail.com
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: A lot of my spare time is taken up by roller derby 🛼
+
+---
+
+<p align="center"><sub><em>Credits: Illutration: <a href="https://blush.design/collections/friendly-ones">Friendly Ones by Diana Aguilar Ortiz</a>, blob made with <a href="https://www.blobmaker.app/">blobmaker</a></em></sub></p>
