@@ -33,4 +33,4 @@ dae-gameplay-adaptivmath 22 hrs 59 mins      ███████████�
 
 ---
 
-<p align="center"><sub><em>Credits: Illutration: <a href="https://blush.design/collections/friendly-ones">Friendly Ones by Diana Aguilar Ortiz</a>, blob made with <a href="https://www.blobmaker.app/">blobmaker</a></em></sub></p>
+<p align="center"><sub><em>Credits: Illutration: <a href="https://blush.design/collections/friendly-ones">Friendly Ones by Diana Aguilar Ortiz</a>, blob made with <a href="https://www.blobmaker.app/">blobmaker</a>, Wakatime stats by <a href="https://github.com/anmol098/waka-readme-stats">anmol098</a>, badges by <a href="https://github.com/aleen42/badges">aleen42</a></em></sub></p>
