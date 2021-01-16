@@ -17,11 +17,10 @@
 
 ```text
 💬 Programming Languages: 
-Python                   4 mins              █████████████████████░░░░   84.44% 
-CSV                      0 secs              ████░░░░░░░░░░░░░░░░░░░░░   15.56%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-generate_problem_workbook5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
