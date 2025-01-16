@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/gTL1MSA.png" alt="web developer passionate about all things frontend, architecture, UX, a11y, etc." width="100%" height="auto" />
+![Hi, I'm Samy. Web developer passionate about all things frontend, architecture, UX, a11y, etc.](https://github.com/anaiel/anaiel/blob/main/hero.png)
 
 I specialize in React/Typescript applications development. My main focus is providing a positive experience to the user and to my collaborators, and I pay particular attention to accessibility and UX, code readability and maintainability and clear and clean architecture.
 
